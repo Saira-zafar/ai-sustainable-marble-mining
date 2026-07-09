@@ -135,7 +135,7 @@ Field Surveys + Satellite Imagery (Sentinel-2, Landsat-8, DEMs)
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/ai-sustainable-marble-mining.git
+git clone https://github.com/Maira447/testt.git
 cd ai-sustainable-marble-mining
 
 # Create a virtual environment
